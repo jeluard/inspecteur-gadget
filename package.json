@@ -1,0 +1,9 @@
+{
+    "name": "inspecteur-gadget",
+    "type": "module",
+    "main": "src/index.js",
+    "dependencies": {
+        "ws": "8.17.0"
+    },
+    "bin": "src/bin.js"
+}
